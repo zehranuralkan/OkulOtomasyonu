@@ -1,5 +1,4 @@
-# OkulOtomasyonu
-Java Okul Otomasyonu
+
 ![1](https://user-images.githubusercontent.com/68777717/116789513-eef98880-aab7-11eb-8984-d4d3f0185b5d.jpg)
 ![2](https://user-images.githubusercontent.com/68777717/116789514-ef921f00-aab7-11eb-97b6-5bfe9228ff1a.jpg)
 ![3](https://user-images.githubusercontent.com/68777717/116789515-ef921f00-aab7-11eb-9b73-4d2f9e3d8854.jpg)
